@@ -1,0 +1,29 @@
+= JUCE_SVGButton
+:lang: ja
+:doctitle: JUCE_SVGButton
+:doctype: book
+:author: 岡安啓幸 Akiyuki Okayasu
+:revnumber: 0.1
+:revdate: 2020 / 12 / 30
+:toc:
+:toc-title: 
+:icons: font
+:scripts: cjk
+ifdef::env-github[]
+:tip-caption: :bulb:
+:note-caption: :information_source:
+:important-caption: :heavy_exclamation_mark:
+:caution-caption: :fire:
+:warning-caption: :warning:
+endif::[]
+
+== JUCE_SVGButton
+Minimal example of creating an SVG button with JUCE
+
+
+== 解説記事
+link:https://scrapbox.io/akiyukiokayasublog/JUCE%E3%81%A7%E4%BD%9C%E3%82%8BSVG%E3%83%9C%E3%82%BF%E3%83%B3[JUCEで作るSVGボタン]
+
+
+== LICENSE
+GPLv3
